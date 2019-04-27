@@ -1,0 +1,30 @@
+head {
+    background-color :#F6CEE3;
+}
+       
+body {
+    color: rgb(201, 113, 12);
+    line-height: 1.5;
+}
+
+#table, th, td {
+    font-weight:bolder;
+    line-height : 1.8;
+    border-right: solid 30px rgb(89, 0, 255);
+    border-left: solid 30px rgb(89, 0, 255);
+  
+}
+       
+.jump {
+    color : rgba(255, 145, 0, 0.911);
+}
+
+.text_center {
+    background-color : rgb(10, 2, 10);
+   
+}
+
+#weather {
+    line-height: 1.5;
+
+}
